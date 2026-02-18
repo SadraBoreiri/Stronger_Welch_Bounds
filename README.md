@@ -8,7 +8,7 @@ This repository provides code to compute the numerical results presented in the 
 
 Figure 2 compares:
 - the **standard Welch bound**,
-- the **strengthened bounds** from **Theorem 5** (general case) and **Theorem 6** (design-constrained regime),
+- the **strengthened bounds** from **Theorem 5** (general case) and the **sharpened bounds*** from **Theorem 6** (design-constrained regime),
 - and **heuristic minima** obtained via non-convex optimization,
 for the **off-diagonal overlap moment**
 
