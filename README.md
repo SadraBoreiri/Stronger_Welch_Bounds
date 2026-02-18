@@ -1,4 +1,4 @@
-# Code for Figure 2 — *Stronger Welch Bounds and Optimal Approximate k-Designs*
+# Stronger Welch Bounds for Approximate k-Designs — Numerical Code*
 
 This repository provides code to compute the numerical results presented in the paper and to reproduce **Figure 2**.
 
