@@ -1,6 +1,6 @@
 # Code for Figure 2 — *Stronger Welch Bounds and Optimal Approximate k-Designs*
 
-This repository contains the code used to reproduce **Figure 2** of the paper
+This repository provides code to compute the numerical results presented in the paper and to reproduce **Figure 2**.
 
 - **“Stronger Welch Bounds and Optimal Approximate k-Designs”**  
   Riccardo Castellano, Dmitry Grinko, Sadra Boreiri, Nicolas Brunner, Jef Pauwels  
