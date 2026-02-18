@@ -11,9 +11,8 @@ Figure 2 compares:
 - the **strengthened bounds** from **Theorem 5** (general case) and **Theorem 6** (design-constrained regime),
 - and **heuristic minima** obtained via non-convex optimization,
 for the **off-diagonal overlap moment**
-\[
-\sum_{i\neq j} |\langle \psi_i|\psi_j\rangle|^{2k} \;=\; N^2 \mathcal{E}_k(\chi) - N.
-\]
+$$
+\sum_{i\neq j} |\langle \psi_i|\psi_j\rangle|^{2k} \;=\; N^2 \mathcal{E}_k(\chi) - N.$$
 
 ---
 
