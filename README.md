@@ -28,7 +28,8 @@ $$
 
   **Important:** the function  
   `symmetric_proj_partial_transpose_spectrum(d, k, num_eigs=None, return_dense=False)`  
-  can be used to compute the **complete spectrum** (and, optionally, the operator) of the partially transposed symmetric-subspace projector (i.e., the partially transposed projector onto \(\vee^k \mathbb{C}^d\)).
+  can be used to compute the **complete spectrum** (and, optionally, the operator) of the partially transposed symmetric-subspace projector (i.e., the partially transposed projector onto
+   $\vee^k \mathbb{C}^d$ ).
 
   The helper `compute_WB_NB(d, k, N)` computes (i) Welch bound and (ii) Theorem 5 bound in the “scaled” form used for Figure 2.
 
